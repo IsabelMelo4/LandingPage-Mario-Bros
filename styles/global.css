@@ -1,9 +1,7 @@
+@import url(global.css);
 @import url(background.css);
 @import url(header.css);
 @import url(main.css);
-/*@import url(Section-galery.css);*/
-@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
-
 * {
   padding: 0;
   margin: 0;
