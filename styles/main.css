@@ -14,8 +14,8 @@
 }
 
 .main_info p{
-    font-size: 18px;
-    margin: 20px 0 20px;
+    font-size: 15px;
+    margin: 25px 0 20px;
 
 }
 
@@ -43,6 +43,6 @@ transform: skew(-10deg);
 
 .main_info div button{
     background: transparent;
-    border: 1px solid var(--green);
+    border: 1px solid var(--green)
 }
 
